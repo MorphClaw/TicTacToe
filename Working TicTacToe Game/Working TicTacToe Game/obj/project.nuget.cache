@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "NbGtHYnuwNQb5bX6/Bycs5GbvJcPzTmasfFM7z5YLv7Ny7kAR5OKynAwAP2tW8w1/SgRrqwvJ0N+RDdQTvdj5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vinnessa\\Documents\\School Junk\\Working TicTacToe Game\\Working TicTacToe Game\\Working TicTacToe Game.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vinnessa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512",
+    "C:\\Users\\Vinnessa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Vinnessa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Vinnessa\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
